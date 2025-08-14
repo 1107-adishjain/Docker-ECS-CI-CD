@@ -120,4 +120,4 @@ The pipeline sends **Slack notifications** after every run with:
 
 ## 📊 Pipeline Flow Diagram
 
-![Pipeline Flow](ecs_cicd_pipeline_flow.png)
+![Pipeline Flow](images/ecs_cicd_pipeline_flow.png)
